@@ -1,4 +1,6 @@
 ## Corretto 21
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcorretto-21.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcorretto-21?ref=badge_shield)
+
 
 Amazon Corretto is a no-cost, multiplatform,
 production-ready distribution of the Open Java Development Kit (OpenJDK).
@@ -14,6 +16,9 @@ Documentation is available at [https://docs.aws.amazon.com/corretto](https://doc
 ### Licenses and Trademarks
 
 Please read these files: "LICENSE", "ADDITIONAL_LICENSE_INFO", "ASSEMBLY_EXCEPTION", "TRADEMARKS.md".
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcorretto-21.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcorretto-21?ref=badge_large)
 
 ### Branches
 
@@ -42,4 +47,3 @@ or either of these files:
 See <https://openjdk.org/> for more information about the OpenJDK
 Community and the JDK and see <https://bugs.openjdk.org> for JDK issue
 tracking.
-
